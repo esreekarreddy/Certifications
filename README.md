@@ -11,6 +11,8 @@ Welcome to my personal profile! In this repository, I'm excited to share my jour
 
 3. **IBM Certifications:** Also, I will include certifications that I've earned during my time with IBM. These learning experiences have contributed to my professional growth (be it behavioural, technical, work ethics, etc,.)
 
+4. **Linkedin Learnings:** Also, This section will contain certificates from various courses I have completed from Linkedin learning.
+
 ## Why Share?
 
 Sharing my learning journey and accomplishments through this repository serves multiple purposes:
