@@ -5,7 +5,7 @@ Welcome to my personal profile! In this repository, I'm excited to share my jour
 
 ## Repository Contents
 
-1. **Udemy Certifications:** This section will contain certificates from various Udemy courses I have completed. These certifications showcase my commitment to expanding my knowledge and skills in different areas.
+1. **Udemy & Coursera Certifications:** This section will contain certificates from various courses I have completed on Udemy and Coursera with various instructors. These certifications showcase my commitment to expanding my knowledge and skills in different areas.
 
 2. **Miscellaneous Courses:** In addition to Udemy courses, I'll be sharing information about other miscellaneous courses, workshops, or training programs I've undertaken. These are equally valuable to my personal growth.
 
