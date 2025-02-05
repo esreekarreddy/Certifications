@@ -9,7 +9,7 @@ Welcome to my personal profile! In this repository, I'm excited to share my jour
 
 2. **Miscellaneous Courses:** In addition to Udemy courses, I'll be sharing information about other miscellaneous courses, workshops, or training programs I've undertaken. These are equally valuable to my personal growth.
 
-3. **IBM Certifications:** Also, I will include certifications that I've earned during my time with IBM. These learning experiences have contributed to my professional growth (be it behavioural, technical, work ethics, etc,.)
+3. **Credly Badges/Certifications:** Also, I will include badges that I've earned during my time with IBM. These learning experiences have contributed to my professional growth (be it behavioural, technical, work ethics, etc,.)
 
 4. **Linkedin Learnings:** Also, This section will contain certificates from various courses I have completed from Linkedin learning.
 
